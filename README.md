@@ -3,3 +3,6 @@
 * To play this game: 
     1. Download the code ZIP.
     2. Run main.py in terminal/command pallet.
+* In-game snapshots
+![image](in-game-snapshots/snapshot1.png)
+![image](in-game-snapshots/snapshot2.png)
