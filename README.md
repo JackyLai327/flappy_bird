@@ -12,8 +12,8 @@
         pip3 install pygame
         python3 main.py
         ```
-
-    3. Enjoy!
+    3. To play the game, press SPACE to start and fly!
+    4. Enjoy!git ad
 * In-game snapshots
 ![image](in-game-snapshots/snapshot1.png)
 ![image](in-game-snapshots/snapshot2.png)
